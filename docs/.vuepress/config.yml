@@ -1,13 +1,13 @@
 title: 'My docs'
 description: 'Just playing around'
 
-lang: ja
+base: '/VuePressTest/'
 
 themeConfig:
   sidebar:
     - '/'
-    - '/roadmap'
     - '/api'
+    - '/roadmap'
 
   lastUpdated: 'Last Updated'
   

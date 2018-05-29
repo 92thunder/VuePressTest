@@ -1,14 +1,10 @@
 {
   "name": "mydoc",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": false,
   "scripts": {
-    "docs:dev": "vuepress dev",
-    "docs:build": "vuepress build"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "vuepress": "^0.10.0"
   }
