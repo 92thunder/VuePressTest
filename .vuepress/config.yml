@@ -1,0 +1,12 @@
+title: 'My docs'
+description: 'Just playing around'
+
+lang: ja
+
+themeConfig:
+  sidebar:
+    - '/'
+    - '/roadmap'
+
+  lastUpdated: 'Last Updated'
+  
