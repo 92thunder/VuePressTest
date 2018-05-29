@@ -7,6 +7,7 @@ themeConfig:
   sidebar:
     - '/'
     - '/roadmap'
+    - '/api'
 
   lastUpdated: 'Last Updated'
   
